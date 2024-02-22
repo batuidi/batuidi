@@ -1,4 +1,4 @@
-[![MasterHead](https://codilime.com/static/7150aa1f015beb5165e9ee4640851ecc/header-data-science-vs-data-analytics.png)
+![MasterHead](https://codilime.com/static/7150aa1f015beb5165e9ee4640851ecc/header-data-science-vs-data-analytics.png)
 <h1 align="center">Hi 👋, I'm Batuhan Kebeli</h1>
 <h3 align="center">Data Scientist from Turkey</h3>
 
